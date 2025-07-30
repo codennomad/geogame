@@ -7,7 +7,7 @@
 [![Uvicorn](https://img.shields.io/badge/Uvicorn-0.23.0%2B-blueviolet)](https://www.uvicorn.org/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-2.0%2B-success)](https://pydantic.dev/)
 
-![Fitness Game API Architecture](./docs/Gemini_Generated.png)
+![Fitness Game API Architecture](../geo/docs/Gemini_Generated.png)
 
 Este repositório contém a API central para um inovador jogo de fitness que transforma sua atividade física diária em uma aventura competitiva de PvP (Jogador contra Jogador). Desenvolvida com uma arquitetura RESTful escalável, a API integra geolocalização, validação de movimento e elementos sociais para criar uma experiência de jogo imersiva e envolvente.
 
